@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS-iNeuron/10.Projects-DS/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/6060c4becbd5438b8b81eb2041b7e290/artifacts
+end_time: 1690639482457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6060c4becbd5438b8b81eb2041b7e290
+run_name: smiling-frog-535
+run_uuid: 6060c4becbd5438b8b81eb2041b7e290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690639475927
+status: 3
+tags: []
+user_id: Sai
