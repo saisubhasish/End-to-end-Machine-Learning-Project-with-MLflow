@@ -1,5 +1,17 @@
 # End-to-end-Machine-Learning-Project-with-MLflow
 
+```
+MLflow model
+```
+
+![Screenshot (13)](https://github.com/saisubhasish/End-to-end-Machine-Learning-Project-with-MLflow/assets/102937478/24bc2338-3853-4530-9aeb-b479f9473f3e)
+
+```
+AWS deployed app
+```
+![Screenshot (18)](https://github.com/saisubhasish/End-to-end-Machine-Learning-Project-with-MLflow/assets/102937478/e42b5e99-5e57-490b-ad5c-9cd2c021f0f8)
+![Screenshot (19)](https://github.com/saisubhasish/End-to-end-Machine-Learning-Project-with-MLflow/assets/102937478/d27fd4fd-6b7e-4718-957c-ad01781e64ba)
+![Screenshot (17)](https://github.com/saisubhasish/End-to-end-Machine-Learning-Project-with-MLflow/assets/102937478/b7485213-c066-4b45-b4fc-ccf9755f30e8)
 
 ## Workflows
 
